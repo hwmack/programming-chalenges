@@ -1,0 +1,7 @@
+[package]
+name = "gunshot_detector"
+version = "0.1.0"
+authors = ["Hayden Mack <hayden.mack.7@gmail.com>"]
+
+[dependencies]
+regex = "0.2"
